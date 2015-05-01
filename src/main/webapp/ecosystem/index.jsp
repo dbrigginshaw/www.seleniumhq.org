@@ -70,6 +70,10 @@
             <a rel="nofollow" href="http://www.redwoodhq.com">RedwoodHQ</a> -
             Open Source framework that allows users to develop automation code, create readable keyword driven test cases and execute them across multiple machines all under a single Web interface.
         </li>
+        <li>
+            <a rel="nofollow" href="http://www.odintech.com/axe_SELENIUM.html">Odin Axe</a> -
+            Test Automation Platform that allows non-technical testers to create test scenarios in an Excel like interface. Uses innovative code and documentation generation to generate selenium code.
+        </li>
     </ul>
 
     <h2>Commercial Support, Services &amp; Training</h2>
